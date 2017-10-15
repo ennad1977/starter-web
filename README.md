@@ -16,3 +16,5 @@ Hej och hå!
 
 dfgdfg
 sdfsdf
+
+COPYRIGHT
